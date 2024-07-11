@@ -1,0 +1,1 @@
+SELECT * FROM paginaweb.registro;
