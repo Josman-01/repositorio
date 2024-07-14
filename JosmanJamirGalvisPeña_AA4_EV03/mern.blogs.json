@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6694383d33811be9328e1cc5"
+  },
+  "title": "Titulo 12",
+  "content": "Cuchara"
+},
+{
+  "_id": {
+    "$oid": "6694383d33811be9328e1cc6"
+  },
+  "title": "Titulo 2",
+  "content": "Texto de mi segundo blog"
+},
+{
+  "_id": {
+    "$oid": "6694383d33811be9328e1cc8"
+  },
+  "title": "Titulo 4",
+  "content": "Texto de mi cuarto blog"
+},
+{
+  "_id": {
+    "$oid": "6694411c36983cd53576f200"
+  },
+  "title": "titulo nuevo",
+  "content": "nuevo archivo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6694497136983cd53576f214"
+  },
+  "title": "Licuadora",
+  "content": "Super potente la mejor en el mercado",
+  "__v": 0
+}]
